@@ -24,4 +24,5 @@ These our travel plans to a destination using the Scrum process
   ## Purpose
   
   ## Clone of HTTPS Github Repository
+  * https://github.com/gpmpn2/CS4320TravelPlans.git
   
