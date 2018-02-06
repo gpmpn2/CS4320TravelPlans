@@ -16,12 +16,16 @@ These our travel plans to a destination using the Scrum process
   * Alex Gompper
   
   ## Destination
+  * New York City
   
   ## Budget
+  * $20,000 collectively
   
   ## Length of the trip
+  * 2 week
   
   ## Purpose
+  * To have fun
   
   ## Clone of HTTPS Github Repository
   * https://github.com/gpmpn2/CS4320TravelPlans.git
