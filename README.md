@@ -27,6 +27,7 @@ These our travel plans to a destination using the Scrum process
   ## Purpose
   * To have fun
   * Visit as many clubs as we can within the length of the trip
+  * Bro trip
   
   ## Clone of HTTPS Github Repository
   * https://github.com/gpmpn2/CS4320TravelPlans.git
