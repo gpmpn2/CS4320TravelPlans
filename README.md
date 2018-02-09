@@ -22,7 +22,7 @@ These our travel plans to a destination using the Scrum process
   * $1,000,000 collectively
   
   ## Length of the trip
-  * 2 weeks
+  * 1 week (Spring break)
   
   ## Purpose
   * To have fun
