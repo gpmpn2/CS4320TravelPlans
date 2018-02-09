@@ -19,7 +19,7 @@ These our travel plans to a destination using the Scrum process
   * New York City
   
   ## Budget
-  * $20,000 collectively
+  * $1,000,000 collectively
   
   ## Length of the trip
   * 2 weeks
