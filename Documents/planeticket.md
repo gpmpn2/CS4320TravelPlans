@@ -2,8 +2,7 @@
 
 # Private Jet Rental
 
-Inline-style: 
-![alt text](https://github.com/gpmpn2/CS4320TravelPlans/Screenshot/planeprices.png "Plane ticket prices")
+![Plane Ticket Prices](https://github.com/gpmpn2/CS4320TravelPlans/blob/master/Screenshot/planeprices.png?raw=true "Plane ticket prices")
 
 Chicago to New York(Round Trip) - $18,000
 
