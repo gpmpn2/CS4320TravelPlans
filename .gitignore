@@ -7,3 +7,9 @@
 /Files/Docs/docs.checksum
 /QuickLook/
 /Settings/ui.plist
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
