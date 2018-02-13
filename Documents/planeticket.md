@@ -2,4 +2,4 @@
 
 ## Trip
 
-Chicago to New York - $18,000
+Chicago to New York(Round Trip) - $18,000
