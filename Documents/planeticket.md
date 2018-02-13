@@ -1,6 +1,9 @@
 [Plane ticket](https://www.claylacy.com/jet-charters/charter-costs/)
 
-## Trip
+# Private Jet Rental
+
+Inline-style: 
+![alt text](https://github.com/gpmpn2/CS4320TravelPlans/Screenshot/planeprices.png "Plane ticket prices")
 
 Chicago to New York(Round Trip) - $18,000
 
