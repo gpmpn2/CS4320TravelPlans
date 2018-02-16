@@ -10,6 +10,8 @@
 
 ### March 26
 
+* 12:00pm-8:00pm: Yacht Party
+
 ### March 27
 
 ### March 28
