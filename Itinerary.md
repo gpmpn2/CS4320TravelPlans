@@ -14,28 +14,28 @@
 
 ### March 26
 
-* 12:00pm-8:00pm: Yacht Party
+* 7:00pm: Dinner at Daniel
 * Later: Return to penthouse
-* 7:00PM: Dinner reservations at Daniel
 
 ### March 27
 
 * Later: Return to penthouse
-* 7:00PM: Dinner reservations at Nerai
+* 7:00pm: Dinner at Nerai
 
 ### March 28
 
 * Later: Return to penthouse
+* 7:00pm: Dinner at 212 Steakhouse
 
 ### March 29
 
 * Later: Return to penthouse
-* 7:00PM: Dinner reservations at 212 Steakhouse
+* 12:00pm-8:00pm: Yacht Party
 
 ### March 30
 
-* 1:00PM: Lunch reservations at Indian Accent
 * Later: Return to penthouse
+* 1:00pm: Lunch at Indian Accent
 
 ### March 31
 
