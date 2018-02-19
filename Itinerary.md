@@ -19,23 +19,24 @@
 
 ### March 27
 
-* Later: Return to penthouse
 * 7:00pm: Dinner at Nerai
+* Later: Return to penthouse
 
 ### March 28
 
-* Later: Return to penthouse
 * 7:00pm: Dinner at 212 Steakhouse
+* Later: Return to penthouse
 
 ### March 29
 
-* Later: Return to penthouse
 * 12:00pm-8:00pm: Yacht Party
+* Later: Return to penthouse
 
 ### March 30
 
-* Later: Return to penthouse
 * 1:00pm: Lunch at Indian Accent
+* 8:00pm-11:00pm: Broadway Show
+* Later: Return to penthouse
 
 ### March 31
 
