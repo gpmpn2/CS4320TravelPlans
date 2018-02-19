@@ -43,6 +43,7 @@
 
 * 12:00pm: Drop off exotic car rentals
 * Later: Return to penthouse
+* 5:00pm: Knick's Game vs Pistons
 
 ### April 1
 
