@@ -11,7 +11,7 @@
 * 12:00pm: Pick up exotic car rentals
 * 2:00pm: Helicopter Tour
 * Later: Return to penthouse
-* 5:00pm: VIP Justin Timberlake concert
+* 7:30pm: VIP Justin Timberlake concert
 
 ### March 26
 
