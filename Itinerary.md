@@ -9,6 +9,7 @@
 ### March 25
 
 * 12:00pm: Pick up exotic car rentals
+* 2:00pm: Helicopter Tour
 * Later: Return to penthouse
 
 ### March 26
