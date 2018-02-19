@@ -5,6 +5,7 @@
 
 * 2:00pm-5:00pm: Flight from Chicago to New York
 * 6:00pm: Check in the penthouse
+* 7:00pm: T.J. Miller Stand up
 
 ### March 25
 
