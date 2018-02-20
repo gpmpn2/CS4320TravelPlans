@@ -3,6 +3,7 @@
 
 ### March 24
 
+* 10:00am: Pick up Mercedes to get to Chicago
 * 2:00pm-5:00pm: Flight from Chicago to New York
 * 6:00pm: Check in the penthouse
 * 7:00pm: T.J. Miller Stand up
@@ -50,3 +51,7 @@
 
 * 7:00am: Check out of penthouse
 * 8:00am-11:00am: Flight from New York to Chicago
+
+### April 2
+
+* Return Mercedes by 10am
